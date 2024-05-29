@@ -8,6 +8,7 @@ In config.py, you need to fill in two key variables based on the information of 
 
 Please note that you will still need to modify two functions in utils.seat_filter to filter specific venue seats. This will require you to study the code yourself. Good luck!
 
+For methods to bypass reCAPTCHA, thanks to https://github.com/sarperavci/GoogleRecaptchaBypass.
 ### 声明
 
 This code is for learning purposes only. Please delete it within 24 hours after downloading.
